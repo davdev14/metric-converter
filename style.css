@@ -28,6 +28,7 @@ body{
   margin-bottom: 20px;
   font-weight: bold;
   font-size: 2.5em;
+  outline: none;
 }
 .query button {
   background-color: #ffffff;
